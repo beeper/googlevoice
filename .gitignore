@@ -1,0 +1,4 @@
+.idea/
+matrix_googlevoice/test.sqlite*
+matrix_googlevoice/config.yaml
+matrix_googlevoice/logs
